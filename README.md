@@ -17,3 +17,4 @@ brew install gcc
 - [bad and good examples](bad-example-good-example)
 - [simple maths](simple-maths)
 - [create module](create-modules)
+- [making makefiles](making-makefiles)
