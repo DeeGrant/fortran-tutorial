@@ -1,9 +1,7 @@
 program maths
-    use geometry, only: area, pi
+    use precision, only: print_kind_info
     implicit none
-    real :: r
 
-    r = 3.
-    print*,'pi is ',pi
-    print*,'area of a circle, radius ',r,', is ',area(r)
+    call print_kind_info() ! () are optional
+
 end program maths
