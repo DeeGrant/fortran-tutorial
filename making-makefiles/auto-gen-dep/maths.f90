@@ -1,7 +1,7 @@
 program maths
     use geometry, only: area,pi
     implicit none
-    real r
+    real :: r
 
     r = 2.
     print*,'pi is ',pi

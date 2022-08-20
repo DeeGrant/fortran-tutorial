@@ -1,5 +1,5 @@
 FC=gfortran
-FFlAGS=-O3 -Wall -Wextra -std=2008
+FFLAGS=-O3 -Wall -Wextra -std=2008
 DEPFLAGS=-M -cpp
 SRC=area.f90 maths.f90
 OBJ=${SRC:.f90=.o}
