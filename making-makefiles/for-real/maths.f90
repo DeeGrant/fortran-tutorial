@@ -1,5 +1,5 @@
 program maths
-    use geometry
+    use geometry, only:area,pi
     implicit none
     real :: r
 
