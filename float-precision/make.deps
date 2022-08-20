@@ -1,0 +1,3 @@
+geometry.mod area.o: area.f90
+prec.mod precision.o: precision.f90
+maths.o: maths.f90 geometry.mod
