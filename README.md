@@ -19,3 +19,4 @@ brew install gcc
 - [create module](create-modules)
 - [making makefiles](making-makefiles)
 - [float precision](float-precision)
+- [simpler float precision management](float-precision-simple)
